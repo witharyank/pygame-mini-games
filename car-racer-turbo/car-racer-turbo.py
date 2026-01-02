@@ -1,4 +1,8 @@
-import pygame, random, sys, os
+import os
+import sys
+import random
+import pygame
+
 
 pygame.init()
 WIDTH, HEIGHT = 500, 700
