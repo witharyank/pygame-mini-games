@@ -5,7 +5,7 @@ import pygame
 
 
 pygame.init()
-WIDTH, HEIGHT = 500, 700
+WIDTH, HEIGHT = 500, 600
 win = pygame.display.set_mode((WIDTH, HEIGHT))
 pygame.display.set_caption("Car Racer Turbo - Powerup Boosted")
 
