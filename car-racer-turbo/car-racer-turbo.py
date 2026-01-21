@@ -130,7 +130,7 @@ class Player:
 
     def update(self):
         """
-        Handle power-up timeout
+        Handle power-up timeout Its lagging last second have to fix
         """
         if self.powered:
             if pygame.time.get_ticks() - self.power_time >= self.power_duration:
